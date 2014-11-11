@@ -1,8 +1,10 @@
 capssl
 ======
 
-> Pronounced _*cap·sul*_
+> Pronounced ***cap·sul***
+
 > noun
+
 > A RESTful implementation of an SSL CA
 
 
